@@ -2,7 +2,6 @@
 
 
 Final Year Project
-Supervised by Mr Shehzad Rafiq
 
 Project Details:
 iSociety Management System to manage employee resoucrces
